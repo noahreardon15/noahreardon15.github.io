@@ -6,9 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 ## Summer 2026
-
 <figure>
   <img src="/images/BCBL_2026_Poster.jpeg" alt="BCBL 2026 Poster" width="600">
   <figcaption>Poster Presentation at the 2026 International Conference on Interdisciplinary Advances in Statistical Learning<br>
