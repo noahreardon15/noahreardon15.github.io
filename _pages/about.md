@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Summer 2026 Update"
+excerpt: "2026 International Conference on Interdisciplinary Advances in Statistical Learning<br/><img src='/images/BCBL_2026_Poster.jpeg'>"
 collection: portfolio
 author_profile: true
 redirect_from: 
